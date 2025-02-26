@@ -201,6 +201,10 @@ ul .text3{
     .right-side .dev{
         font-size: 28px;
     }
+    .time-to{
+        display: flex;
+        float: none;
+    }
 }
 
 
